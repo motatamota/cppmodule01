@@ -14,5 +14,6 @@ int	main()
 
 	std::cout << std::endl << "random test" << std::endl;
 	zombie.randomChump("charly");
+	std::cout << std::endl;
 	delete newzombie;
 }
